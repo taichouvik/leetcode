@@ -21,6 +21,6 @@ public class Solution {
             solve(str+")",openBracketLeft, closedBracketLeft-1);
     }
     public static void main(String[] args) {
-        System.out.println(generateParenthesis(3));    
+        System.out.println(generateParenthesis(1));    
     }
 }
