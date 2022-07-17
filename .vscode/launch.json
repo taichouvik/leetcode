@@ -9,7 +9,7 @@
             "name": "Launch Solution",
             "request": "launch",
             "mainClass": "Solution",
-            "projectName": "leetcode_49ad26e4"
+            "projectName": "leetcode"
         },
         {
             "type": "java",
