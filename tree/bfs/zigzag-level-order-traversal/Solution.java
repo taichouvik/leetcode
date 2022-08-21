@@ -22,7 +22,8 @@ class TreeNode {
         this.right = right;
     }
 }
-
+//left to right // right to left mane deque use krne ka
+//https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 public class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         Deque<TreeNode> q = new LinkedList<>();
