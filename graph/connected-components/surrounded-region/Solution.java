@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/surrounded-regions/
-class Solution {
+public class Solution {
     int N,M;
     char[][] b;
     public void solve(char[][] board) {
